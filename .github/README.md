@@ -1,55 +1,39 @@
 <h2 align="center">
-  ──「 𝐍ɪsʜᴀ ꭙ 𝐌ᴜsɪᴄ 」──
-
+ 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=WELCOME+TO+IROMUSIC+V2)](https://github.com/IR-O/IROMUSIC)
 </h2>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=ㅤ+ᴡᴇʟᴄᴏᴍᴇ+ᴛᴏ+sʜɪᴢᴜ+ᴍᴜsɪᴄ+ʙᴏᴛ+ʀᴇᴘᴏ;ㅤ+ᴛʜɪs+ɪs+᧘‌+᧘‌ᴅᴠᴀɴᴄᴇᴅ+ᴍᴜsɪᴄ+ʙᴏᴛ;ᴘᴏᴡᴇʀᴅ+ʙʏ+☞+𝗧𝗛𝗘+𝗧𝗘𝗔𝗠+𝗦𝗛𝗜𝗭𝗨)](https://github.com/BUG-MUSIX/NishaMusic)
-
-
+<h2 align="center">
+    ──「 ɪꝛσ   ᴍᴜsɪᴄ 」──
+</h2>
 
 <p align="center">
   <img src="https://telegra.ph/file/04237b82008edbee8e213.jpg">
 </p>
 
+<p align="center">
+<a href="https://github.com/IR-O/IROMUSIC/stargazers"><img src="https://img.shields.io/github/stars/IR-O/IROMUSIC?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
+<a href="https://github.com/IR-O/IROMUSIC/network/members"> <img src="https://img.shields.io/github/forks/IR-O/IROMUSIC?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
+<a href="https://github.com/IR-O/IROMUSIC/blob/main/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
+<a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-orange?style=for-the-badge&logo=python" alt="Python" /> </a>
+<a href="https://github.com/IR-O/IROMUSIC/commits/IR-O"> <img src="https://img.shields.io/github/last-commit/IR-O/IROMUSIC?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
+</p>
 
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=ғᴏʀᴋ+ᴛʜɪs+ᴍᴜsɪᴄ+ʀᴇᴘᴏ+ʙᴇғᴏʀᴇ+ᴅᴇᴘʟᴏʏ)
-
-## ⚠️ « ᴅɪsᴄʟᴀɪᴍᴇʀ »
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-👉🏻 ʜᴇʏ ɢᴜʏ's, ᴅᴏɴ'ᴛ ᴜsᴇ ʏᴏᴜʀ ʀᴇᴀʟ ɪ'ᴅ sᴇssɪᴏɴ ᴀs ᴀ ᴀssɪsᴛᴀɴᴛ ʙᴄᴏᴢ ᴛʜᴇ ᴀssɪsᴛᴀɴᴛ ᴡɪʟʟ ʟᴇᴀᴠᴇ ᴀʟʟ ᴛʜᴇ ɢʀᴏᴜᴘs & ᴄʜᴀɴɴᴇʟs.ᴜ  ᴍɪɢʜᴛ ʟᴏᴏsᴇ ʏᴏᴜʀ ɢʀᴏᴜᴘs ᴏᴡɴᴇʀsʜɪᴘ ᴀɴᴅ ᴀᴅᴍɪɴsʜɪᴘ 🥺 sᴏ ᴜsᴇ ʏᴏᴜʀ ᴀɴʏ ᴏᴛʜᴇʀ ɪ'ᴅ sᴇssɪᴏɴ 👈🏻
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-
-## 🖇 ɢᴇɴʀᴀᴛɪɴɢ ᴘʏʀᴏɢʀᴀᴍ sᴛʀɪɴɢ sᴇssɪᴏɴ
-
-<p>
-<a href="https://t.me/StringSesssionGeneratorRobot-Gen"><img src="https://img.shields.io/badge/TG%20String%20Gen%20Bot-blueviolet?style=for-the-badge&logo=appveyor" width="200""/></a>
-<a href="https://t.me/Itz_SapnaMusicbot-Gen"><img src="https://img.shields.io/badge/SAPNA%20MUSIC%20Bot-blueviolet?style=for-the-badge&logo=appveyor" width="200""/></a>
-
+<p align="center">
+  <img src="https://files.catbox.moe/y5ltcg.mp4">
+</p>
 
 <h3 align="center">
-    ──「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」──
-
-<h3> « ʜᴇʀᴏᴋᴜ ᴅᴇᴘʟᴏʏᴍᴇɴᴛ ʙᴜᴛᴛᴏɴ » </h3>
+    ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
 
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/BUG-MUSIX/NishaMusic"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/mrarman78692/---s-"> <img src="https://graph.org/file/7758e15f135e166b8637d.jpg" width="520" height="198.45"/></a></p>
-
-
-
-<p align="center">
-<a href="https://telegram.me/SHIVANSHDEVS"><img src="https://img.shields.io/badge/-☆𝐃𝐌 𝐓𝐎 𝐀𝐁𝐔𝐒𝐄𝐑»𝐊𝐀𝐑𝐌𝐀%20☆-blue.svg?style=for-the-badge&logo=Telegram"></a>
-</p>
-<p align="center">
-<a href="https://telegram.me/Oyy_Anonymous"><img src="https://img.shields.io/badge/-☆𝐃𝐌 𝐓𝐎 𝐀𝐍𝐎𝐍𝐘𝐌𝐎𝐔𝐒%20☆-blue.svg?style=for-the-badge&logo=Telegram"></a>
-</p>
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ/ ᴠᴘs 」─
 </h3>
 
-- Get your [Necessary Variables](https://github.com/SHIVANSH475/SHIVANSH-MUSIC/blob/master/sample.env)
+- Get your [Necessary Variables](https://github.com/IR-O/IROMUSIC/blob/main/sample.env)
 - Upgrade and Update by :
 `sudo apt-get update && sudo apt-get upgrade -y`
 - Install Ffmpeg by :
@@ -59,7 +43,7 @@
 - Install pip by :
 `sudo pip3 install -U pip`
 - Install Node js by :
-`curl -fssL https://deb.nodesource.com/setup_18.x | sudo -E bash - && sudo apt-get install nodejs -y && npm i -g npm`
+`curl -fssL https://deb.nodesource.com/setup_19.x | sudo -E bash - && sudo apt-get install nodejs -y && npm i -g npm`
 - Clone the repository by :
 `git clone https://github.com/itzshukla/STRANGER-MUSIC && cd STRANGER-MUSIC`
 - Install requirements by :
@@ -76,5 +60,19 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 `bash start`
 - For getting out from tmux session : Press `Ctrl+b` and then `d`<br>
 ━━━━━━━━━━━━━━━━━━━━
-### Contact :
-<a href="https://t.me/ShizuBots"><img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
+
+<h3 align="center">
+    ─「 sᴜᴩᴩᴏʀᴛ 」─
+</h3>
+
+<p align="center">
+<a href="https://t.me/SpicyxBots"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+</p>
+
+<p align="center">
+<a href="https://t.me/SpicyxNetwork"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+</p>
+
+<p align="center">
+<a href="https://t.me/NoMoreMaxim"><img src="https://img.shields.io/badge/-PIKACHU-blue.svg?style=for-the-badge&logo=Telegram"></a>
+</p>
