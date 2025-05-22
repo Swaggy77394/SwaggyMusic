@@ -4,7 +4,7 @@
 </h2>
 
 <h2 align="center">
-    ──「 ɪꝛσ   ᴍᴜsɪᴄ 」──
+    ──「 𝐍ɪsʜᴀ 𝚡 𝐌ᴜsɪᴄ 」──
 </h2>
 
 <p align="center">
