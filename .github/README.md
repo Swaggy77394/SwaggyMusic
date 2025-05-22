@@ -1,14 +1,14 @@
 <h2 align="center">
-  ──「 sʜɪᴢᴜ ꭙ ᴍᴜsɪᴄ 」──
+  ──「 𝐍ɪsʜᴀ ꭙ 𝐌ᴜsɪᴄ 」──
 
 </h2>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=ㅤ+ᴡᴇʟᴄᴏᴍᴇ+ᴛᴏ+sʜɪᴢᴜ+ᴍᴜsɪᴄ+ʙᴏᴛ+ʀᴇᴘᴏ;ㅤ+ᴛʜɪs+ɪs+᧘‌+᧘‌ᴅᴠᴀɴᴄᴇᴅ+ᴍᴜsɪᴄ+ʙᴏᴛ;ᴘᴏᴡᴇʀᴅ+ʙʏ+☞+𝗧𝗛𝗘+𝗧𝗘𝗔𝗠+𝗦𝗛𝗜𝗭𝗨)](https://github.com/SHIVANSH475/SHIVANSH-MUSIC)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=ㅤ+ᴡᴇʟᴄᴏᴍᴇ+ᴛᴏ+sʜɪᴢᴜ+ᴍᴜsɪᴄ+ʙᴏᴛ+ʀᴇᴘᴏ;ㅤ+ᴛʜɪs+ɪs+᧘‌+᧘‌ᴅᴠᴀɴᴄᴇᴅ+ᴍᴜsɪᴄ+ʙᴏᴛ;ᴘᴏᴡᴇʀᴅ+ʙʏ+☞+𝗧𝗛𝗘+𝗧𝗘𝗔𝗠+𝗦𝗛𝗜𝗭𝗨)](https://github.com/BUG-MUSIX/NishaMusic)
 
 
 
 <p align="center">
-  <img src="https://telegra.ph/file/13afb9ee5c5da17930f1e.png">
+  <img src="https://telegra.ph/file/04237b82008edbee8e213.jpg">
 </p>
 
 
