@@ -74,5 +74,5 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 </p>
 
 <p align="center">
-<a href="https://t.me/NoMoreMaxim"><img src="https://img.shields.io/badge/-PIKACHU-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/NoMoreMaxim"><img src="https://img.shields.io/badge/-Maxim-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
