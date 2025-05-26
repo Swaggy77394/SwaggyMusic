@@ -16,7 +16,7 @@ BOT_TOKEN = getenv("BOT_TOKEN","7953139932:AAFLRe5L0HSdbboNYDKzchLEBFQx4vJrIZA")
 # -------------------------------------------------------
 OWNER_USERNAME = getenv("OWNER_USERNAME","NoMoreMaxim")
 # --------------------------------------------------------
-BOT_USERNAME = getenv("BOT_USERNAME" , "MoodyMusic_BoT")
+BOT_USERNAME = getenv("BOT_USERNAME" , "NishaMusix_Bot")
 # --------------------------------------------------------
 BOT_NAME = getenv("BOT_NAME" , "𝐍ɪsʜᴀ 𝚡 𝐌ᴜsɪᴄ")
 # ---------------------------------------------------------
