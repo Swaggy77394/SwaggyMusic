@@ -12,11 +12,11 @@ load_dotenv()
 API_ID = int(getenv("API_ID","23803580"))
 API_HASH = getenv("API_HASH","7d91da02949db09dc81df55532c93863")
 # ------------------------------------------------------
-BOT_TOKEN = getenv("BOT_TOKEN","7953139932:AAFLRe5L0HSdbboNYDKzchLEBFQx4vJrIZA")
+BOT_TOKEN = getenv("BOT_TOKEN","7768882721:AAGrfDs0m0y8jMDBMkm9kdE9U-dtCCrphtY")
 # -------------------------------------------------------
 OWNER_USERNAME = getenv("OWNER_USERNAME","NoMoreMaxim")
 # --------------------------------------------------------
-BOT_USERNAME = getenv("BOT_USERNAME" , "NishaMusix_Bot")
+BOT_USERNAME = getenv("BOT_USERNAME" , "MoodyMusic_BoT")
 # --------------------------------------------------------
 BOT_NAME = getenv("BOT_NAME" , "𝐍ɪsʜᴀ 𝚡 𝐌ᴜsɪᴄ")
 # ---------------------------------------------------------
