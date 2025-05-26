@@ -9,24 +9,24 @@ from pyrogram import filters
 load_dotenv()
 # ------------------------------------
 # -----------------------------------------------------
-API_ID = int(getenv("API_ID"))
-API_HASH = getenv("API_HASH")
+API_ID = int(getenv("API_ID","23803580"))
+API_HASH = getenv("API_HASH","7d91da02949db09dc81df55532c93863")
 # ------------------------------------------------------
-BOT_TOKEN = getenv("BOT_TOKEN")
+BOT_TOKEN = getenv("BOT_TOKEN","7953139932:AAFLRe5L0HSdbboNYDKzchLEBFQx4vJrIZA")
 # -------------------------------------------------------
 OWNER_USERNAME = getenv("OWNER_USERNAME","NoMoreMaxim")
 # --------------------------------------------------------
 BOT_USERNAME = getenv("BOT_USERNAME" , "NishaMusix_Bot")
 # --------------------------------------------------------
-BOT_NAME = getenv("BOT_NAME" , "SAPNA")
+BOT_NAME = getenv("BOT_NAME" , "𝐍ɪsʜᴀ 𝚡 𝐌ᴜsɪᴄ")
 # ---------------------------------------------------------
-ASSUSERNAME = getenv("ASSUSERNAME" , " ")
+ASSUSERNAME = getenv("ASSUSERNAME" , "CuteNishaa")
 # ---------------------------------------------------------
 
 
 #---------------------------------------------------------------
 #---------------------------------------------------------------
-MONGO_DB_URI = getenv("MONGO_DB_URI", None)
+MONGO_DB_URI = getenv("MONGO_DB_URI", "mongodb+srv://nishamusic:Nothing0000@nishamusicbot.dg20jss.mongodb.net/?retryWrites=true&w=majority&appName=NishaMusicBot")
 #---------------------------------------------------------------
 #---------------------------------------------------------------
 
@@ -114,7 +114,7 @@ TG_VIDEO_FILESIZE_LIMIT = int(getenv("TG_VIDEO_FILESIZE_LIMIT", "5242880000"))
 # ------------------------------------
 # ------------------------------------
 # ------------------------------------
-STRING1 = getenv("STRING_SESSION", None)
+STRING1 = getenv("STRING_SESSION", "BQAf70YAVf30uzzX36VSAjwLDGMJq1hF6vXK0CNsnW_9tZcFu_c5FK13yVVKMHUNBFnX3GhHzNRkE4E-GmARk6sK_K8n9kEj_TEpTe5rPDkqViEqO4K-3MQiijl0-84kgPhrG9TTQzHuBqhJ6Nn0SDHe0QaE1_3EP3O3AJgRHZdkLueW9iqHXaMjrE2GA06RWncL98r5J90wIjPa2zrdYKwi9stN-RgqFexLuXMT2n0PEG-fxXnKdQXkV_C98UJjdT6y5KinDpSCDFn0D2Ctwdd69R5LIE7qm5Ufs4Zk2x5KhBfMU5JO_75r-OWAlME-okodxdd35tS3XNYHuEIHvX0dpS23agAAAAGExJmlAA")
 STRING2 = getenv("STRING_SESSION2", None)
 STRING3 = getenv("STRING_SESSION3", None)
 STRING4 = getenv("STRING_SESSION4", None)
@@ -144,7 +144,7 @@ START_IMG_URL = getenv(
     "START_IMG_URL", "https://telegra.ph/file/b61227af05544deb76a34.jpg"
 )
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://files.catbox.moe/0un55i.jpg"
+    "PING_IMG_URL", "https://telegra.ph/file/b61227af05544deb76a34.jpg"
 )
 PLAYLIST_IMG_URL = "https://telegra.ph/file/d723f4c80da157fca1678.jpg"
 STATS_IMG_URL = "https://telegra.ph/file/d30d11c4365c025c25e3e.jpg"
