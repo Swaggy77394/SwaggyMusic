@@ -5,18 +5,23 @@ from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton, CallbackQ
 from apscheduler.schedulers.asyncio import AsyncIOScheduler
 from pyrogram.types import ChatPermissions
 from SHUKLAMUSIC.mongo.nightmodedb import nightdb,nightmode_on,nightmode_off,get_nightchats 
+from pyrogram.types import ChatPermissions
 
 
 
 CLOSE_CHAT = ChatPermissions(
     can_send_messages=False,
-    can_send_media_messages = False,
-    can_send_other_messages = False,
-    can_send_polls = False,
-    can_change_info = False,
-    can_add_web_page_previews = False,
-    can_pin_messages = False,
-    can_invite_users = False )
+    can_send_media_messages=False,
+    can_send_polls=False,
+    can_send_stickers=False,
+    can_send_animations=False,
+    can_send_games=False,
+    can_use_inline_bots=False,
+    can_add_web_page_previews=False,
+    can_change_info=False,
+    can_invite_users=False,
+    can_pin_messages=False
+)
 
 
 OPEN_CHAT = ChatPermissions(
