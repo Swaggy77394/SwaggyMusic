@@ -15,7 +15,7 @@ from config import BANNED_USERS
 async def startup():
     if not any([config.STRING1, config.STRING2, config.STRING3, config.STRING4, config.STRING5]):
         LOGGER(__name__).error("String session missing. Please fill at least one Pyrogram session.")
-        exit(1)
+        return
 
     await sudo()
 
@@ -28,11 +28,8 @@ async def startup():
         LOGGER(__name__).warning(f"Failed to fetch banned users: {e}")
 
     await app.start()
-
-    # Fix: make sure to prepend dot before module names
     for module in ALL_MODULES:
-        importlib.import_module(f"SHUKLAMUSIC.plugins.{module}")
-
+        importlib.import_module("SHUKLAMUSIC.plugins." + module)
     LOGGER("SHUKLAMUSIC.plugins").info("All features loaded successfully.")
 
     await userbot.start()
@@ -42,7 +39,7 @@ async def startup():
         await SHUKLA.stream_call("https://te.legra.ph/file/29f784eb49d230ab62e9e.mp4")
     except NoActiveGroupCall:
         LOGGER("SHUKLAMUSIC").error("Please start a voice chat in the log group/channel.")
-        exit(1)
+        return
     except Exception as e:
         LOGGER("SHUKLAMUSIC").warning(f"Stream call failed: {e}")
 
@@ -58,7 +55,7 @@ async def shutdown():
     LOGGER("SHUKLAMUSIC").info("Bot stopped.")
 
 
-async def main():
+async def runner():
     await startup()
     try:
         await idle()
@@ -66,5 +63,7 @@ async def main():
         await shutdown()
 
 
+# Entry point
 if __name__ == "__main__":
-    asyncio.run(main())
+    loop = asyncio.get_event_loop()
+    loop.run_until_complete(runner())
