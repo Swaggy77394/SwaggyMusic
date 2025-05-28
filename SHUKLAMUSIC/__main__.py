@@ -28,10 +28,13 @@ async def startup():
         LOGGER(__name__).warning(f"Failed to fetch banned users: {e}")
 
     await app.start()
+
+    # Fix: make sure to prepend dot before module names
     for module in ALL_MODULES:
-        importlib.import_module("SHUKLAMUSIC.plugins." + module)
+        importlib.import_module(f"SHUKLAMUSIC.plugins.{module}")
+
     LOGGER("SHUKLAMUSIC.plugins").info("All features loaded successfully.")
-    
+
     await userbot.start()
     await SHUKLA.start()
 
