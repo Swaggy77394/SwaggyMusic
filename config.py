@@ -12,21 +12,21 @@ load_dotenv()
 API_ID = int(getenv("API_ID","23803580"))
 API_HASH = getenv("API_HASH","7d91da02949db09dc81df55532c93863")
 # ------------------------------------------------------
-BOT_TOKEN = getenv("BOT_TOKEN","7953139932:AAGzXvqUklOpNBxtqwJ7xeGHg2m26ODSubM")
+BOT_TOKEN = getenv("BOT_TOKEN","7300540262:AAF1fJ14peAcxoNBG9_7d4NOUcWLIeV96Ro")
 # -------------------------------------------------------
-OWNER_USERNAME = getenv("OWNER_USERNAME","NoMoreMaxim")
+OWNER_USERNAME = getenv("OWNER_USERNAME","Swaggy_Rajput")
 # --------------------------------------------------------
-BOT_USERNAME = getenv("BOT_USERNAME" , "NishaMusix_Bot")
+BOT_USERNAME = getenv("BOT_USERNAME" , "SWAGGY_MUSICBOT")
 # --------------------------------------------------------
-BOT_NAME = getenv("BOT_NAME" , "𝐍ɪsʜᴀ 𝚡 𝐌ᴜsɪᴄ")
+BOT_NAME = getenv("BOT_NAME" , "⌜Sᴡᴀɢɢʏ ꭙ Mᴜsɪᴄ 🎙️")
 # ---------------------------------------------------------
-ASSUSERNAME = getenv("ASSUSERNAME" , "CuteNishaa")
+ASSUSERNAME = getenv("ASSUSERNAME" , "SwaggyAssistant")
 # ---------------------------------------------------------
 
 
 #---------------------------------------------------------------
 #---------------------------------------------------------------
-MONGO_DB_URI = getenv("MONGO_DB_URI", "mongodb+srv://nishamusic:Nothing0000@nishamusicbot.dg20jss.mongodb.net/?retryWrites=true&w=majority&appName=NishaMusicBot")
+MONGO_DB_URI = getenv("MONGO_DB_URI", "mongodb+srv://Swaggy:Swaggy77394@cluster0.wedisdm.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
 #---------------------------------------------------------------
 #---------------------------------------------------------------
 
@@ -38,7 +38,7 @@ DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 17000))
 LOGGER_ID = int(getenv("LOGGER_ID", "-1002553338682"))
 # ----------------------------------------------------------------
 # ----------------------------------------------------------------
-OWNER_ID = int(getenv("OWNER_ID", "7381712992"))
+OWNER_ID = int(getenv("OWNER_ID", "6475959009"))
 # -----------------------------------------------------------------
 # -----------------------------------------------------------------
 
@@ -53,7 +53,7 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 # ----------------------------------------------------------------
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/BUG-MUSIX/NishaMusic",
+    "https://github.com/Swaggy77394/SwaggyMusic",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = getenv(
@@ -67,8 +67,8 @@ GIT_TOKEN = getenv(
 
 # ------------------------------------------------------------------------
 # -------------------------------------------------------------------------
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/SpicyxNetwork")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/+hXY2z-kpAokwMDll")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/UndeadBoii")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/+cL5oV-0cxK8zOTI1")
 # ------------------------------------------------------------------------------
 # -------------------------------------------------------------------------------
 
@@ -114,7 +114,7 @@ TG_VIDEO_FILESIZE_LIMIT = int(getenv("TG_VIDEO_FILESIZE_LIMIT", "5242880000"))
 # ------------------------------------
 # ------------------------------------
 # ------------------------------------
-STRING1 = getenv("STRING_SESSION",  "BQFrNrwAllBxwMoFCJTPrICEbtl0zOZ1dabVObhPRgVklQETKmYj_qs5RmqkvRGDv-5RghzesjkYbOzPvGBCD9GLsPnXF1i72BROvUbpExZmJCypxGA3eZK4qpHXfX8IaioTsIt3ZdlDhDuiIu61fUA0SZuCoRKD8eTfuwnvvnYQuO3aCsviQ312eaKCKkhClCQByC9MK9pdv82FR3r-qZxekj17ZJXou5uT4TwvDk3H_U7fnjf-GqHid84mmll5uYpqkmtjf43dw6EcTtKotv3CTZgnqcpHmcdylFLNb6xhKtzd-L-OtlbVmE_wJXaua3Gk9BkyxQmYh8DvDWbeOeh0KH6U-QAAAAF0VV_2AA")
+STRING1 = getenv("STRING_SESSION",  "BQFrNrwAlAfcNGKePY6U95srNY-ymHD3hRVbx8cTt9HO1zwfA6axEi9bPYWX9AOiM98sUrCTfEvTEQELU_umyKAWOLwH_tu0ZWYXgKlWtge763CFSgYuTE5-JWhHG20qr3tocF85L3SdncYI_roA_Us1QVR5cw_p9cDcUAm6-flrH40GMq78_bmO84LfmXjncCGh2yVMXSym4BkoUaKgBRhtxPvbw5WmW7PVggAv5E9ssMD7FAX2aNXR92BquNE-droRLjAJIoTLj8vSQfp6zDUNyM7QB137ewUXKjXjyphndKcxzvtazIOyEkzctIqdczDcIMwrLsL8CHCPlHP-j8HlA6ShTQAAAAGr-20YAA")
 STRING2 = getenv("STRING_SESSION2", None)
 STRING3 = getenv("STRING_SESSION3", None)
 STRING4 = getenv("STRING_SESSION4", None)
