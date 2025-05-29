@@ -26,7 +26,7 @@ ASSUSERNAME = getenv("ASSUSERNAME" , "SwaggyAssistant")
 
 #---------------------------------------------------------------
 #---------------------------------------------------------------
-MONGO_DB_URI = getenv("MONGO_DB_URI", "mongodb+srv://Swaggy:Swaggy77394@cluster0.wedisdm.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
+MONGO_DB_URI = getenv("MONGO_DB_URI", "mongodb+srv://Swaggy:Nothing0000@cluster0.nj1xli4.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
 #---------------------------------------------------------------
 #---------------------------------------------------------------
 
